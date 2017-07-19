@@ -1,0 +1,65 @@
+# Patterns are ordered alphabetically
+
+# Eclipse IDE artifacts
+.classpath
+**/.classpath
+
+# IntelliJ IDEA IDE artifacts
+.idea
+**/.idea
+
+.gradle
+**/.gradle
+
+# Eclipse IDE artifacts
+.metadata
+**/metadata
+
+# Eclipse IDE artifacts
+.project
+**/.project
+
+# Eclipse IDE artifacts
+.settings
+**/.settings
+
+bin
+**/bin
+
+build
+**/build
+!**/bower_components/**/build
+
+node_modules
+**/node_modules
+
+# scssc - cache files
+*.scssc
+**/*.scssc
+
+**/resources-static-gen
+
+target
+**/target
+
+test-output
+**/test-output
+
+# IntelliJ IDEA IDE artifacts
+*.iml
+**/*.iml
+
+# IntelliJ IDEA IDE artifacts
+*.ipr
+**/*.ipr
+
+# IntelliJ IDEA IDE artifacts
+*.iws
+**/*.iws
+
+*.log
+**/*.log
+/gradlew
+/gradlew.bat
+/gradle/
+/.idea/vcs.xml
